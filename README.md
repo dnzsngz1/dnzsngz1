@@ -1,6 +1,3 @@
-Hİİİ
-I'm a highschool student who tying improve himself
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dnzsngz0) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Lazy-Courage5998) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@dnzsngz1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:moltonman1453@gmail.com) 
